@@ -1,1 +1,2 @@
-# milityplayer-game-test-1
+# synchronousBallMovement
+Ball moving synchronously
